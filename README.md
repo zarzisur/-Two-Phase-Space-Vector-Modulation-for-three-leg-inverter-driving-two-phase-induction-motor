@@ -66,6 +66,13 @@ References:
 M. A. Jabbar, Senior Member, IEEE, Ashwin M. Khambadkone, Member, IEEE, and Zhang Yanfeng (2004)
 
 
+# Simulation Result
+
+Reference On Time Waveform for SW1, SW3 and SW5:
+![swtch](https://user-images.githubusercontent.com/35787202/126740090-6a86c515-6ccb-4d26-a275-57fb716a253b.jpg)
+
+Total Simulation Result:
+![all](https://user-images.githubusercontent.com/35787202/126740342-bcb2d18d-bc8e-45e1-8d15-9758b9a1cc7b.jpg)
 
 
 
